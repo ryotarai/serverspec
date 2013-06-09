@@ -6,6 +6,7 @@
 .yardoc
 .rspec
 .idea/
+.vagrant
 Gemfile.lock
 InstalledFiles
 _yardoc
@@ -18,5 +19,4 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
-Vagrantfile
 vendor/
